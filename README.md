@@ -11,6 +11,6 @@
 <img align="left" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="left" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="left" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="left" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-
+<img align="left" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<p align="left" width ="4%">
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=joaojesus1337&show_icons=true&theme=dark">
