@@ -10,7 +10,7 @@
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,php,java" />
   </a>
-
+<br>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,ps,linux,github,stackoverflow" />
   </a>
@@ -25,9 +25,9 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JoaoJesus1337?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
 
 <br>
-
+<!--
 <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJesus1337&layout=compact&theme=radical" />
-
+-->
 </div>
 
 <style>
