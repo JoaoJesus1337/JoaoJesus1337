@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm João Jesus</h1>
 <h3 align="center">⚡️Developer from Portugal⚡️</h3>
 <br>
-<h2 align="center" style="font-size:25px">Ferramentas</h2>
+<h2 align="center" style="font-size:25px">Tools</h2>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,php,java" />
@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,ps,linux,github,stackoverflow" />
 </div>
 <br>
-<h2 align="center" style="font-size:25px"> Estatisticas</h2>
+<h2 align="center" style="font-size:25px">Stats</h2>
 <br>
 <div align="center">
 
