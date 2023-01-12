@@ -1,8 +1,5 @@
 [![MasterHead](1.jpg)](https://github.com/JoaoJesus1337/)
 
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
 <br>
 <h1 align="center">Hi 👋, I'm João Jesus</h1>
 <h3 align="center">⚡️Developer from Portugal⚡️</h3>
