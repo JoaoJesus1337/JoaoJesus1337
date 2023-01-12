@@ -10,13 +10,9 @@
 <h2 align="center" style="font-size:25px">Ferramentas</h2>
 <br>
 <div align="center">
-     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,php,java" />
-  </a>
-<br>
-<a href="https://skillicons.dev">
+    <br>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,ps,linux,github,stackoverflow" />
-  </a>
 </div>
 <br>
 <h2 align="center" style="font-size:25px"> Estatisticas</h2>
