@@ -5,7 +5,7 @@
 <h3 align="center">⚡️Developer from Portugal⚡️</h3>
 <br>
 <h1 align="center">Personal Website</h1>
-<h2 align="center">💻 joaojesus.cf 💻</h2>
+<h3 align="center" style="font-size:25px">💻 joaojesus.cf 💻</h3>
 <br>
 <h2 align="center" style="font-size:25px">Tools</h2>
 <br>
