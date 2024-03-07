@@ -5,7 +5,8 @@
 <h3 align="center">⚡️Developer from Portugal⚡️</h3>
 <br>
 <h1 align="center">Personal Website</h1>
-<h3 align="center" style="font-size:25px">💻 <a style="text-decoration:none;color:white" target="_blank" rel="noopener noreferrer" href="https://joaojesus.cf/">joaojesus.cf</a>💻</h3>
+<h3 align="center" style="font-size:25px">💻 <a style="text-decoration:none;color:white" target="_blank" rel="noopener noreferrer" 
+href="https://joaojesus1337.github.io/MyWebSite/">JoaoJesus.pt</a>💻</h3>
 <br>
 <h2 align="center" style="font-size:25px">Tools</h2>
 <br>
