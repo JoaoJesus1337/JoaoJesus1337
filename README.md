@@ -1,29 +1,27 @@
-[![MasterHead](1.jpg)](https://github.com/JoaoJesus1337/)
+## []() Heyo, I'm João Jesus 👋
 
-<br>
-<h1 align="center">Hi 👋, I'm João Jesus</h1>
-<h3 align="center">⚡️Developer from Portugal⚡️</h3>
-<br>
-<h1 align="center">Personal Website</h1>
-<h3 align="center" style="font-size:25px">💻 <a style="text-decoration:none;color:white" target="_blank" rel="noopener noreferrer" 
-href="https://joaojesus1337.github.io/MyWebSite/">JoaoJesus.pt</a>💻</h3>
-<br>
-<h2 align="center" style="font-size:25px">Tools</h2>
-<br>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,php,java" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,ps,linux,github,stackoverflow" />
-</div>
-<br>
-<h2 align="center" style="font-size:25px">Stats</h2>
-<br>
-<div align="center">
+### []() Working as a **Web Developer** at [Belo Digital](https://www.belodigital.com/)
+
+These are the languages and tools I am using or playing with
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-E91E63?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament PHP](https://img.shields.io/badge/FilamentPHP-10B981?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=veed&logoColor=white)
+![Herd](https://img.shields.io/badge/Herd-FA5C5C?style=for-the-badge&logo=php&logoColor=white)
+![DBngin](https://img.shields.io/badge/DBngin-6B21A8?style=for-the-badge&logo=mysql&logoColor=white)
+![TablePlus](https://img.shields.io/badge/TablePlus-FF9900?style=for-the-badge&logo=mysql&logoColor=white)
+
+_To find a little more about me check my [personal website](https://joaojesus1337.github.io/MyWebSite/)_ 🧐
+
+<hr>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JoaoJesus1337?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
 
 <br>
 
 <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJesus1337&layout=compact&theme=radical" />
-
-</div>
