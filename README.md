@@ -1,6 +1,6 @@
-## []() Heyo, I'm João Jesus 👋
+## 👋 Hello, I'm João Jesus 
 
-### []() Working as a **Web Developer** at [Belo Digital](https://www.belodigital.com/)
+### []() Working as a **Web Developer** @ [Belo Digital](https://www.belodigital.com/)
 
 These are the languages and tools I am using or playing with
 
@@ -8,6 +8,7 @@ These are the languages and tools I am using or playing with
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-E91E63?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament PHP](https://img.shields.io/badge/FilamentPHP-10B981?style=for-the-badge&logo=laravel&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
