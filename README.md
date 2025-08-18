@@ -16,13 +16,21 @@ These are the languages and tools I am using or playing with
 ![Herd](https://img.shields.io/badge/Herd-FA5C5C?style=for-the-badge&logo=php&logoColor=white)
 ![DBngin](https://img.shields.io/badge/DBngin-6B21A8?style=for-the-badge&logo=mysql&logoColor=white)
 ![TablePlus](https://img.shields.io/badge/TablePlus-FF9900?style=for-the-badge&logo=mysql&logoColor=white)
+![Saloon](https://img.shields.io/badge/Saloon-8B4513?style=for-the-badge&logo=apache&logoColor=white) 
 
 _To find a little more about me check my [personal website](https://joaojesus1337.github.io/MyWebSite/)_ 🧐
 
 <hr>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JoaoJesus1337?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
+<div style="display: flex; justify-content: center; gap: 10px;">
 
-<br>
+<a href="https://git.io/awesome-stats-card">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JoaoJesus1337?cardType=github&theme=tokyonight" 
+       width="450" height="200" />
+</a>
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJesus1337&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJesus1337&layout=compact&theme=radical" 
+     width="450" height="200" />
+
+</div>
+
