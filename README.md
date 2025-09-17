@@ -20,17 +20,3 @@ These are the languages and tools I am using or playing with
 
 _To find a little more about me check my [personal website](https://joaojesus1337.github.io/MyWebSite/)_ 🧐
 
-<hr>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-
-<a href="https://git.io/awesome-stats-card">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JoaoJesus1337?cardType=github&theme=tokyonight" 
-       width="450" height="200" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJesus1337&layout=compact&theme=radical" 
-     width="450" height="200" />
-
-</div>
-
