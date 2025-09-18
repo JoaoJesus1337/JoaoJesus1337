@@ -18,5 +18,5 @@ These are the languages and tools I am using or playing with
 ![TablePlus](https://img.shields.io/badge/TablePlus-FF9900?style=for-the-badge&logo=mysql&logoColor=white)
 ![Saloon](https://img.shields.io/badge/Saloon-8B4513?style=for-the-badge&logo=apache&logoColor=white) 
 
-_To find a little more about me check my [personal website](https://joaojesus1337.github.io/MyWebSite/)_ 🧐
+_To find a little more about me check my [personal website](https://joaojesus1337.github.io/MyWebSite/)_ 
 
